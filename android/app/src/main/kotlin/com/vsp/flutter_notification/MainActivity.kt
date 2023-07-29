@@ -1,4 +1,4 @@
-package com.vsp.flutter_notification
+package com.thebean.app
 
 import io.flutter.embedding.android.FlutterActivity
 
